@@ -1,3 +1,10 @@
+/*
+    Suggested Learning Path
+    -> Start with Flood Fill to understand DFS/BFS basics.
+    -> Solve Island Perimeter to get comfortable with navigating grid edges.
+    ->  Attempt Max Area of Island to practice similar logic to Problem 200.
+    ->  Finally, tackle Number of Islands to consolidate your learning.
+*/ 
 class Solution {
     public int AreaDirectional(int [][] grid,int row,int col){
         if(row < 0 || row >=grid.length ||col < 0|| col >=grid[0].length || grid[row][col] == 0) 
