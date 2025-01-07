@@ -57,6 +57,7 @@
 | [0200-number-of-islands](https://github.com/subhashts03/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0695-max-area-of-island](https://github.com/subhashts03/LeetCodeProblems/tree/master/0695-max-area-of-island) |
+| [1524-string-matching-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/1524-string-matching-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/subhashts03/LeetCodeProblems/tree/master/2465-shifting-letters-ii) |
 ## Union Find
 |  |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/subhashts03/LeetCodeProblems/tree/master/0008-string-to-integer-atoi) |
+| [1524-string-matching-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/1524-string-matching-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subhashts03/LeetCodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/subhashts03/LeetCodeProblems/tree/master/2465-shifting-letters-ii) |
 ## Bit Manipulation
@@ -112,4 +114,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/subhashts03/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/subhashts03/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
