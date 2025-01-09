@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/subhashts03/LeetCodeProblems/tree/master/0008-string-to-integer-atoi) |
+| [0214-shortest-palindrome](https://github.com/subhashts03/LeetCodeProblems/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/1524-string-matching-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subhashts03/LeetCodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/subhashts03/LeetCodeProblems/tree/master/2465-shifting-letters-ii) |
@@ -117,5 +118,14 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/subhashts03/LeetCodeProblems/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/1524-string-matching-in-an-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/subhashts03/LeetCodeProblems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/subhashts03/LeetCodeProblems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
