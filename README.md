@@ -84,6 +84,7 @@
 | [1524-string-matching-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/1524-string-matching-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subhashts03/LeetCodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/subhashts03/LeetCodeProblems/tree/master/2465-shifting-letters-ii) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/subhashts03/LeetCodeProblems/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,4 +129,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/subhashts03/LeetCodeProblems/tree/master/0214-shortest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/subhashts03/LeetCodeProblems/tree/master/2687-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
