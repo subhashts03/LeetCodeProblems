@@ -6,6 +6,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/subhashts03/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/subhashts03/LeetCodeProblems/tree/master/0394-decode-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subhashts03/LeetCodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0008-string-to-integer-atoi](https://github.com/subhashts03/LeetCodeProblems/tree/master/0008-string-to-integer-atoi) |
 | [0214-shortest-palindrome](https://github.com/subhashts03/LeetCodeProblems/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/subhashts03/LeetCodeProblems/tree/master/0394-decode-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subhashts03/LeetCodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/1524-string-matching-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subhashts03/LeetCodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/subhashts03/LeetCodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
