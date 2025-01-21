@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0504-base-7](https://github.com/subhashts03/LeetCodeProblems/tree/master/0504-base-7) |
+| [1013-fibonacci-number](https://github.com/subhashts03/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/subhashts03/LeetCodeProblems/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/subhashts03/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,4 +156,12 @@
 |  |
 | ------- |
 | [1321-get-equal-substrings-within-budget](https://github.com/subhashts03/LeetCodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/subhashts03/LeetCodeProblems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/subhashts03/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
