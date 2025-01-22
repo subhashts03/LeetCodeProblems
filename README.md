@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/subhashts03/LeetCodeProblems/tree/master/0008-string-to-integer-atoi) |
+| [0087-scramble-string](https://github.com/subhashts03/LeetCodeProblems/tree/master/0087-scramble-string) |
 | [0214-shortest-palindrome](https://github.com/subhashts03/LeetCodeProblems/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/subhashts03/LeetCodeProblems/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/subhashts03/LeetCodeProblems/tree/master/0516-longest-palindromic-subsequence) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/subhashts03/LeetCodeProblems/tree/master/0062-unique-paths) |
+| [0087-scramble-string](https://github.com/subhashts03/LeetCodeProblems/tree/master/0087-scramble-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/subhashts03/LeetCodeProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/subhashts03/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/subhashts03/LeetCodeProblems/tree/master/1236-n-th-tribonacci-number) |
