@@ -88,6 +88,7 @@
 | [0008-string-to-integer-atoi](https://github.com/subhashts03/LeetCodeProblems/tree/master/0008-string-to-integer-atoi) |
 | [0214-shortest-palindrome](https://github.com/subhashts03/LeetCodeProblems/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/subhashts03/LeetCodeProblems/tree/master/0394-decode-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/subhashts03/LeetCodeProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subhashts03/LeetCodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/subhashts03/LeetCodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1524-string-matching-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/1524-string-matching-in-an-array) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/subhashts03/LeetCodeProblems/tree/master/0062-unique-paths) |
+| [0516-longest-palindromic-subsequence](https://github.com/subhashts03/LeetCodeProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/subhashts03/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/subhashts03/LeetCodeProblems/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
