@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subhashts03/LeetCodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/subhashts03/LeetCodeProblems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subhashts03/LeetCodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
@@ -93,6 +94,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subhashts03/LeetCodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/subhashts03/LeetCodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1524-string-matching-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/1524-string-matching-in-an-array) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/subhashts03/LeetCodeProblems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subhashts03/LeetCodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/subhashts03/LeetCodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/subhashts03/LeetCodeProblems/tree/master/2465-shifting-letters-ii) |
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/subhashts03/LeetCodeProblems/tree/master/0062-unique-paths) |
+## Counting
+|  |
+| ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/subhashts03/LeetCodeProblems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
