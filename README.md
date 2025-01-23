@@ -62,6 +62,7 @@
 | [0200-number-of-islands](https://github.com/subhashts03/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0695-max-area-of-island](https://github.com/subhashts03/LeetCodeProblems/tree/master/0695-max-area-of-island) |
+| [1129-longest-string-chain](https://github.com/subhashts03/LeetCodeProblems/tree/master/1129-longest-string-chain) |
 | [1524-string-matching-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/subhashts03/LeetCodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/subhashts03/LeetCodeProblems/tree/master/2465-shifting-letters-ii) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subhashts03/LeetCodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/subhashts03/LeetCodeProblems/tree/master/1129-longest-string-chain) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/subhashts03/LeetCodeProblems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subhashts03/LeetCodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
@@ -91,6 +93,7 @@
 | [0214-shortest-palindrome](https://github.com/subhashts03/LeetCodeProblems/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/subhashts03/LeetCodeProblems/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/subhashts03/LeetCodeProblems/tree/master/0516-longest-palindromic-subsequence) |
+| [1129-longest-string-chain](https://github.com/subhashts03/LeetCodeProblems/tree/master/1129-longest-string-chain) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subhashts03/LeetCodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/subhashts03/LeetCodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1524-string-matching-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/1524-string-matching-in-an-array) |
@@ -114,6 +117,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subhashts03/LeetCodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/subhashts03/LeetCodeProblems/tree/master/1129-longest-string-chain) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,6 +173,7 @@
 | [0087-scramble-string](https://github.com/subhashts03/LeetCodeProblems/tree/master/0087-scramble-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/subhashts03/LeetCodeProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/subhashts03/LeetCodeProblems/tree/master/1013-fibonacci-number) |
+| [1129-longest-string-chain](https://github.com/subhashts03/LeetCodeProblems/tree/master/1129-longest-string-chain) |
 | [1236-n-th-tribonacci-number](https://github.com/subhashts03/LeetCodeProblems/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -183,4 +188,8 @@
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/subhashts03/LeetCodeProblems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## Two Pointers
+|  |
+| ------- |
+| [1129-longest-string-chain](https://github.com/subhashts03/LeetCodeProblems/tree/master/1129-longest-string-chain) |
 <!---LeetCode Topics End-->
