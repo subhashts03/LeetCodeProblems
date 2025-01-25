@@ -64,6 +64,7 @@
 | [0695-max-area-of-island](https://github.com/subhashts03/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [1129-longest-string-chain](https://github.com/subhashts03/LeetCodeProblems/tree/master/1129-longest-string-chain) |
 | [1524-string-matching-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/1524-string-matching-in-an-array) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/subhashts03/LeetCodeProblems/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/subhashts03/LeetCodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/subhashts03/LeetCodeProblems/tree/master/2465-shifting-letters-ii) |
 ## Union Find
@@ -175,6 +176,7 @@
 | [1013-fibonacci-number](https://github.com/subhashts03/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1129-longest-string-chain](https://github.com/subhashts03/LeetCodeProblems/tree/master/1129-longest-string-chain) |
 | [1236-n-th-tribonacci-number](https://github.com/subhashts03/LeetCodeProblems/tree/master/1236-n-th-tribonacci-number) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/subhashts03/LeetCodeProblems/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## Memoization
 |  |
 | ------- |
