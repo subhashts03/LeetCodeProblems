@@ -96,6 +96,7 @@
 | [0394-decode-string](https://github.com/subhashts03/LeetCodeProblems/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/subhashts03/LeetCodeProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [1129-longest-string-chain](https://github.com/subhashts03/LeetCodeProblems/tree/master/1129-longest-string-chain) |
+| [1250-longest-common-subsequence](https://github.com/subhashts03/LeetCodeProblems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subhashts03/LeetCodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/subhashts03/LeetCodeProblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1524-string-matching-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/1524-string-matching-in-an-array) |
@@ -178,6 +179,7 @@
 | [1105-uncrossed-lines](https://github.com/subhashts03/LeetCodeProblems/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/subhashts03/LeetCodeProblems/tree/master/1129-longest-string-chain) |
 | [1236-n-th-tribonacci-number](https://github.com/subhashts03/LeetCodeProblems/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/subhashts03/LeetCodeProblems/tree/master/1250-longest-common-subsequence) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/subhashts03/LeetCodeProblems/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## Memoization
 |  |
