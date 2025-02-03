@@ -25,6 +25,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/subhashts03/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/subhashts03/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/subhashts03/LeetCodeProblems/tree/master/0695-max-area-of-island) |
+| [0820-find-eventual-safe-states](https://github.com/subhashts03/LeetCodeProblems/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subhashts03/LeetCodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -46,6 +47,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/subhashts03/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/subhashts03/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/subhashts03/LeetCodeProblems/tree/master/0695-max-area-of-island) |
+| [0820-find-eventual-safe-states](https://github.com/subhashts03/LeetCodeProblems/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subhashts03/LeetCodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -206,4 +208,12 @@
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/subhashts03/LeetCodeProblems/tree/master/1129-longest-string-chain) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/subhashts03/LeetCodeProblems/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/subhashts03/LeetCodeProblems/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
