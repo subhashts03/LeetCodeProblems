@@ -26,6 +26,7 @@
 | [0200-number-of-islands](https://github.com/subhashts03/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/subhashts03/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/subhashts03/LeetCodeProblems/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/subhashts03/LeetCodeProblems/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subhashts03/LeetCodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -48,6 +49,7 @@
 | [0200-number-of-islands](https://github.com/subhashts03/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/subhashts03/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/subhashts03/LeetCodeProblems/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/subhashts03/LeetCodeProblems/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subhashts03/LeetCodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/subhashts03/LeetCodeProblems/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Math
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/subhashts03/LeetCodeProblems/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/subhashts03/LeetCodeProblems/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/subhashts03/LeetCodeProblems/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Topological Sort
 |  |
