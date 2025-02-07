@@ -52,6 +52,7 @@
 | [0871-keys-and-rooms](https://github.com/subhashts03/LeetCodeProblems/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subhashts03/LeetCodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/subhashts03/LeetCodeProblems/tree/master/1229-shortest-path-with-alternating-colors) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/subhashts03/LeetCodeProblems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [1129-longest-string-chain](https://github.com/subhashts03/LeetCodeProblems/tree/master/1129-longest-string-chain) |
 | [1524-string-matching-in-an-array](https://github.com/subhashts03/LeetCodeProblems/tree/master/1524-string-matching-in-an-array) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/subhashts03/LeetCodeProblems/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/subhashts03/LeetCodeProblems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/subhashts03/LeetCodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/subhashts03/LeetCodeProblems/tree/master/2465-shifting-letters-ii) |
 ## Union Find
@@ -90,6 +92,7 @@
 | [0221-maximal-square](https://github.com/subhashts03/LeetCodeProblems/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/subhashts03/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/subhashts03/LeetCodeProblems/tree/master/0967-minimum-falling-path-sum) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/subhashts03/LeetCodeProblems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Hash Table
 |  |
 | ------- |
