@@ -63,6 +63,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/subhashts03/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/subhashts03/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/subhashts03/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0120-triangle](https://github.com/subhashts03/LeetCodeProblems/tree/master/0120-triangle) |
@@ -96,6 +97,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/subhashts03/LeetCodeProblems/tree/master/0001-two-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subhashts03/LeetCodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/subhashts03/LeetCodeProblems/tree/master/1129-longest-string-chain) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/subhashts03/LeetCodeProblems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
