@@ -217,6 +217,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/subhashts03/LeetCodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/subhashts03/LeetCodeProblems/tree/master/0143-reorder-list) |
 | [1129-longest-string-chain](https://github.com/subhashts03/LeetCodeProblems/tree/master/1129-longest-string-chain) |
 ## Graph
@@ -232,5 +233,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/subhashts03/LeetCodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/subhashts03/LeetCodeProblems/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
